@@ -57,10 +57,10 @@ Data yang digunakan mencakup rentang waktu dari **tahun 2024 hingga 2025**, deng
 
 ## 📈 Hasil Visualisasi
 
-Contoh hasil prediksi terhadap data testing:
+Plot prediksi harga EUR/USD:
 
 <p align="center">
-  <img src="images/prediction_plot.png" width="600"/>
+  <img src="result/Plot_stockPrice.png" width="600"/>
 </p>
 
 ---
