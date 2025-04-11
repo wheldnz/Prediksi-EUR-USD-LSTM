@@ -76,6 +76,7 @@ Plot prediksi harga EUR/USD:
 ## 👤 Kontributor
 
 **Nama:** _M. Wildan Nuril Akmal 
+
 **Minat:** Data Science, Deep Learning for Time Series  
 - 📧 Email: [wildanuril99@email.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
